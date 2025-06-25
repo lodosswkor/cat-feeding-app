@@ -12,3 +12,6 @@
 pip install -r requirements.txt 
 streamlit run <<file>>
 ```
+
+
+![스트임예제](./img.png)
