@@ -17,9 +17,5 @@ streamlit run <<file>>
 ```
 
 
-![스트임예제](./img.png)
-
-
-
 https://github.com/user-attachments/assets/85f8cf3f-ccd8-41f8-88b2-747197afc851
 
