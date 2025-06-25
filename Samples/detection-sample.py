@@ -90,7 +90,7 @@ if video_file:
         result_frame = results[0].plot()
         stframe.image(result_frame, channels="BGR")
 
-        #out.write(result_frame)
+        out.write(result_frame)
 
         # print('-------------------------\n')
         # print(str(result_frame))
